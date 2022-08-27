@@ -1,4 +1,4 @@
-# Juridical-and-Social-Issues
+# Juridical and Social Issues
 
 This exam was divided into two parts: juridical issues in information society and social issues in information society. 
 
