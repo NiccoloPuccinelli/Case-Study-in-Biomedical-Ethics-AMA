@@ -1,9 +1,3 @@
-# Juridical and Social Issues in Information Society
+# Case Study in Biomedical Ethics AMA
 
-This exam was divided into two parts: juridical issues in information society and social issues in information society. 
-
-The first part consisted in the execution of an "**ethical case**", i.e. a brief discussion on the use of modern technologies and the related ethical problems. Here is reported the development of the ethical case.
-
-The second part of the exam, on the other hand, consisted in carrying out a written test, based on the topics covered in "The Fourth Revolution" by Luciano Floridi and "The Game" by Alessandro Baricco. 
-
-Final grade: **30**.
+This repo includes the execution of a brief "**ethical case**", i.e. a short discussion on the use of modern technologies and the related ethical problems. Here is reported the development of an ethical case regarding the use of Machine Learning and Black Box algorithms for prognosis and medical treatment.
